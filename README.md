@@ -1,3 +1,2 @@
-#Projet-réel-fenêtre-connéctée 
-## Detecter le niveau d'une cuve à lisier dans le but d'automatiser le déversement 
-pour la Communauté de communes du Sud Avesnois.
+# Projet-réel-fenêtre-connéctée
+## Développer une fenêtre dont l'ouverture s'adapte en fonction de la météo tout en restant sous le contrôle de l'exploitant, pour la Communauté de communes du Sud Avesnois.
